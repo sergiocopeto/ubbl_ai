@@ -1,0 +1,7 @@
+langid
+pandas
+nltk
+scikit-learn
+tensorflow
+keras
+tqdm
